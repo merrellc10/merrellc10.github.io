@@ -1,2 +1,2 @@
 # merrellc10.github.io
-My personal website
+learning Github is fun
